@@ -1,0 +1,15 @@
+{
+    "name": "Magic Raccoons",
+    "description": "Raccoons",
+    "image": "ipfs://QmdXbHW1ha2atW68bCtdUjpvBziYk5hjYttKKiTppiSxaM/raccoon5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mono"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Drinking"
+        }
+    ]
+}

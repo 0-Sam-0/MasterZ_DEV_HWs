@@ -1,0 +1,15 @@
+{
+    "name": "Magic Raccoons",
+    "description": "Raccoons",
+    "image": "ipfs://QmdXbHW1ha2atW68bCtdUjpvBziYk5hjYttKKiTppiSxaM/raccoon2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mountains"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Flying"
+        }
+    ]
+}

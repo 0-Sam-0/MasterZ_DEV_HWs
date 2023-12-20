@@ -1,0 +1,15 @@
+{
+    "name": "Magic Raccoons",
+    "description": "Raccoons",
+    "image": "ipfs://QmdXbHW1ha2atW68bCtdUjpvBziYk5hjYttKKiTppiSxaM/raccoon4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Office"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Working"
+        }
+    ]
+}
